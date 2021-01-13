@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6mBfZ91/Group-6.png"/>
+<img src="https://i.ibb.co/8KqrMCH/Group-5.jpg"/>
 
  <a href="https://www.linkedin.com/in/lucas-henrique-soares/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

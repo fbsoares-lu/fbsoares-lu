@@ -3,6 +3,7 @@
 <p>Computer science student at the Catholic University of Pernambuco.</p>
 <p>Software developer</p>
 
+
 <p/>
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsoares-lu&langs_count=10&theme=tokyonight&layout=compact"  /></p>
  

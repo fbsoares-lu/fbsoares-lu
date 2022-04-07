@@ -7,7 +7,7 @@
 <p/>
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsoares-lu&langs_count=10&theme=tokyonight&layout=compact"  /></p>
  
- <a href="https://www.linkedin.com/in/lucas-henrique-soares/">
+ <a href="https://www.linkedin.com/in/lucashfbsoares/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
  

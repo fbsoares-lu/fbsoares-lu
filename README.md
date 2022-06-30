@@ -1,17 +1,47 @@
-# About me
- 
-<p>Computer science student at the Catholic University of Pernambuco.</p>
-<p>Software developer</p>
+### Lucas Henrique de F. B. Soares
 
+- 🧑🏽‍💻 Working at [Weedo.it](http://weedo.it) as a Software Engineer
+- 👨🏾‍🎓 Bachelor of Computer Science from the Catholic University of Pernambuco
+- 📚 Graduate student in Interaction Design for Digital Artifacts at CESAR School
 
-<p/>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsoares-lu&langs_count=10&theme=tokyonight&layout=compact"  /></p>
- 
- <a href="https://www.linkedin.com/in/lucashfbsoares/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a> 
- 
- <a href="https://www.youtube.com/channel/UCNhwdO6H7hFPiVoAadIF3xA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
- </a> 
- 
+#### Hobbies
+
+- 🧙‍♂️ Play roleplaying games
+- 🥁 Listen to music and play drums with my friends
+- 📱 Create Mobile UI prototypes in Figma
+
+#### Personal Projects
+
+- 📲 [Leiturando App](https://play.google.com/store/apps/details?id=com.leiturando) - available on Google Play Store
+
+#### Languages and Tools
+
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<a href="https://insomnia.rest/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </a>
+
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/> </a>
+
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/> </a>
+<a href="https://expo.dev/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/> </a>
+<a href="https://adonisjs.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="postgresql" width="20px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
+
+<br/>
+<br/>
+
+<div>
+  <a href="https://github.com/fbsoares-lu">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fbsoares-lu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbsoares-lu&layout=compact&langs_count=7&theme=tokyonight"/>
+</div> <br>
+
+<a href="https://www.behance.net/df35aa7e">
+   <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/lucashfbsoares/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 

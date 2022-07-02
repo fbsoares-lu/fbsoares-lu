@@ -34,7 +34,7 @@
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="postgresql" width="20px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
 
-<br/>
+<br/> 
 <br/>
 
 <div>

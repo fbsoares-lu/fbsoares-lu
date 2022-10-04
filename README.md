@@ -27,7 +27,7 @@
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/> </a>
-
+<a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/> </a>
 <a href="https://expo.dev/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/> </a>
 <a href="https://adonisjs.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg"/> </a>

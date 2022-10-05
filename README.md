@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-- 🧑🏽‍💻 Working at [Weedo.it](http://weedo.it) as a Software Engineer
+- 🧑🏽‍💻 Working at [INSOLE](https://insole.com.br) as a Software Engineer
 - 👨🏾‍🎓 Bachelor of Computer Science from the Catholic University of Pernambuco
 - 📚 Graduate student in Interaction Design for Digital Artifacts at CESAR School
 

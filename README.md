@@ -28,9 +28,11 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/> </a>
 <a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/> </a>
 <a href="https://expo.dev/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/> </a>
 <a href="https://adonisjs.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg"/> </a>
+<a href="https://nodejs.com" target="_blank"> <img align="left" alt="postgresql" width="20px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="postgresql" width="20px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
 

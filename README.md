@@ -28,6 +28,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/> </a>
 <a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/> </a>
+<a href="https://jestjs.io" target="_blank"> <img align="left" alt="jest" width="20px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/> </a>
+<a href="https://kafka.apache.org" target="_blank"> <img align="left" alt="kafka" width="20px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/> </a>
 <a href="https://expo.dev/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/> </a>

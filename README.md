@@ -24,8 +24,14 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://insomnia.rest/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </a>
 
+
+
+
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/> </a>
+
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/> </a>
 <a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/> </a>
 <a href="https://jestjs.io" target="_blank"> <img align="left" alt="jest" width="20px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/> </a>

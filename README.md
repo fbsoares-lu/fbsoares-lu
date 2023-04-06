@@ -20,32 +20,11 @@
 
 #### Languages and Tools
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<a href="https://insomnia.rest/" target="_blank"> <img align="left" alt="git" width="20px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </a>
-
-
-
-
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/> </a>
-
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/> </a>
-<a href="https://www.heroku.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/> </a>
-<a href="https://jestjs.io" target="_blank"> <img align="left" alt="jest" width="20px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/> </a>
-<a href="https://kafka.apache.org" target="_blank"> <img align="left" alt="kafka" width="20px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/> </a>
-<a href="https://expo.dev/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"/> </a>
-<a href="https://adonisjs.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg"/> </a>
-<a href="https://nodejs.com" target="_blank"> <img align="left" alt="postgresql" width="20px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="postgresql" width="20px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="ruby" width="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
-
-<br/> 
-<br/>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,adonis,nestjs,docker,go,express,figma,java,jest,kafka,materialui,mongodb,mysql,postgres,react,spring" />
+  </a>
+</p>
 
 <div>
   <a href="https://github.com/fbsoares-lu">

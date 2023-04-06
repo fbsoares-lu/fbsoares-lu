@@ -22,7 +22,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,adonis,nestjs,docker,go,express,figma,java,jest,kafka,materialui,mongodb,mysql,postgres,react,spring" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,go,java,nodejs,express,adonis,nestjs,spring,docker,kafka,jest,react,materialui,mongodb,mysql,postgres" />
   </a>
 </p>
 

@@ -18,21 +18,22 @@
 
 - 📲 [Leiturando App](https://play.google.com/store/apps/details?id=com.leiturando) - available on Google Play Store
 
-#### Languages
+<!-- #### Languages
 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,java" />
   </a>
-</p>
+</p> -->
 
-#### Frameworks and Tools
+#### Languages and Tools
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,express,nestjs,react,materialui,mongodb,mysql,postgres,adonis,docker,kafka,jest," />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,java,nodejs,spring,express,nestjs,react,materialui,mongodb,mysql,postgres,adonis,kafka,jest,docker,kubernetes,jenkins&perline=10" />
   </a>
 </p>
+
 
 <!-- <div>
   <a href="https://github.com/fbsoares-lu">

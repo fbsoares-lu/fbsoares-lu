@@ -1,11 +1,18 @@
 ## Lucas Henrique de F. B. Soares   
 
 <a href="https://www.behance.net/df35aa7e">
-   <img width="98px" src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" />
+   <img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/lucashfbsoares/">
-  <img width="98px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
+
+<a href="https://hub.docker.com/u/lucashfbsoares">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</a> 
+
+
 
 <br/>
 <br/>

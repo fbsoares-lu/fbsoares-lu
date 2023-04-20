@@ -37,7 +37,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,go,java,nodejs,spring,express,nestjs,react,materialui,mongodb,mysql,postgres,adonis,kafka,jest,docker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,go,java,nodejs,spring,express,nestjs,react,materialui,mongodb,mysql,postgres,adonis,kafka,jest,docker,aws&perline=9" />
   </a>
 </p>
 

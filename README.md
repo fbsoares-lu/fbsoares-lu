@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-- 🧑🏽‍💻 Working at [INSOLE](https://insole.com.br) as a Software Engineer
+- 🧑🏽‍💻 Working at [Passei Direto](https://www.passeidireto.com/) as a Software Engineer
 - 👨🏾‍🎓 Bachelor of Computer Science from the Catholic University of Pernambuco
 
 #### Personal Projects
